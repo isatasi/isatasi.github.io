@@ -68,7 +68,21 @@ en: &DEFAULT_EN
         #   - url: https://facebook.com
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
-        #     icon: fab fa-linkedin-in
+        #     icon: 
+  services:
+    title: "Prices"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "One on One Tution"
+        desc: "For beginner level introductory lessons"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Group lessons"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "Children"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-laptop
 
   contact:
     title: "Contact Us"
