@@ -15,10 +15,10 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Team"
       section: team
-    - title: "Rules"
-      section: timeline
     - title: "Prices"
       section: services
+    - title: "Rules"
+      section: timeline
     - title: "Contact"
       section: contact
 en-US:
