@@ -4,5 +4,5 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+header-image: "https://planetofhotels.com/guide/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/The-Charles-Bridge.jpg"
 contact-image: "../img/map-image.png"

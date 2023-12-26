@@ -18,7 +18,7 @@ url    : "https://mariekucerova.me" # the base hostname & protocol for your site
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Marie Kucerova Jazykova Skola
-email      : ivan.satsiuk@seznam.cz #this is also the email contact forms will go to
+email      : info@mariekucerova.me #this is also the email contact forms will go to
 description: "Language learning services provider in Czech republic"
 author     : M. Kucerova
 # logo:     #optional, defaults to site title
@@ -37,7 +37,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "/f/mnqeaylw"
 
 plugins:
   - jekyll-remote-theme
