@@ -95,7 +95,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "První lekce zdarma"
-        desc: "For beginner level introductory lessons"
+        desc: "Zkušební lekci si můžete objednat v kontaktním formuláři níže."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "450 Kč/ lekce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
