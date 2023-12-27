@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Česky s Češkou, která vám rozumí.
+    text: Naučte se česky z pohodlí domova s rodilou mluvčí.
+    button: Chci se dozvědět víc
     buttonlink: "#portfolio"
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Typy lekcí"
+    text: "Vyberte si lekci, která vám bude sedět."
     section: portfolio
     closebutton: "Close Project"
 
