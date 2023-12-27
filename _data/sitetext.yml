@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Česky s Češkou, která vám rozumí.
-    text: Naučte se česky s rodilou mluvčí.
+    text: Naučte se česky s rodilou mluvčí.
     button: Chci se dozvědět víc
     buttonlink: "#portfolio"
 
@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Pravidla"
-    text: "Abychom spolu dobře vycházeli."
+    text: "Abychom spolu dobře vycházeli..."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -90,18 +90,21 @@ en: &DEFAULT_EN
         #   - url: https://linkedin.com
         #     icon: 
   services:
-    title: "Prices"
+    title: "CENY"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "One on One Tution"
+      - title: "První lekce zdarma"
         desc: "For beginner level introductory lessons"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Group lessons"
+      - title: "450 Kč/ lekce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "Children"
+      - title: "Platba předem za 5 nebo 10 lekcí"
         desc: "Your description here, full **Markdown** support"
+        icon: fas fa-laptop
+         title: "11. lekce zdarma"
+        desc: "Při splnění všech 10 domácích úkolů"
         icon: fas fa-laptop
 
   contact:
