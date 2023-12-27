@@ -54,13 +54,13 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   team:
-    title: "About Me"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "O MNĚ"
+    text: "Naučím vás česky přesně to, co potřebujete."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Marie Kucerova"
-        role: "Lead Teacher"
+      - name: "Marie Kučerová"
+        role: "lektorka češtiny "
         image: assets/img/team/1.jpg
         # social:
         #   - url: https://twitter.com
