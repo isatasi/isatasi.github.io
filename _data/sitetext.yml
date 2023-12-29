@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Česky s Češkou, která vám rozumí
-    text: Česky<br>s rodilou mluvčí
+    text: Česky s rodilou mluvčí
     button: Chci se dozvědět víc
     buttonlink: "#portfolio"
 
@@ -30,13 +30,13 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: ""
-        year: ""
-        desc: "První lekce je bezplatná. <br> Délka jedné lekce je 50 minut <br>Cena jedné lekce je 450 Kč."
+        year: "První lekce je bezplatná. <br> Délka jedné lekce je 50 minut. <br>Cena jedné lekce je 450 Kč."
+        desc: ""
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "4. Platba za lekce probíhá předem. Je možné zaplatit za 5 nebo za 10 lekcí dopředu na účet 2501970696/2010."
+        desc: "Platba za lekce probíhá předem. Je možné zaplatit za 5 nebo za 10 lekcí dopředu na účet 2501970696/2010."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Our Humble Beginnings"
