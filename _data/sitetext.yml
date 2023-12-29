@@ -34,29 +34,29 @@ en: &DEFAULT_EN
         desc: ""
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Platba za lekce probíhá předem. Je možné zaplatit za 5 nebo za 10 lekcí dopředu na účet 2501970696/2010."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Pokud z každé lekce splníte domácí úkol a odešlete ho do 20:00 dne předcházejícího vaší lekci, máte 11. lekci zdarma. Jestliže máte lekci v pondělí, je třeba odeslat domácí úkol do neděle 20:00. Po odeslání deseti domácích úkolů máte jednu lekci zdarma."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Peníze, které za lekce zaplatíte, se nevrací. Můžete je využít na další lekce, nebo zaplatit lekce svým přátelům nebo známým. "
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lekci můžete e-mailem zrušit nebo přenést na jiný čas nejpozději 24 hodin před jejím začátkem. Pokud se tak nestane, lekce se počítá jako odučená. Například máte-li lekci v pondělí v 8:00, můžete mi napsat e-mail a lekci zrušit, nebo změnit její čas do neděle 8:00. Pokud tak neučiníte, lekce se počítá jako odučená."
+      - title: ""
+        year: "Platba za lekce probíhá předem. Je možné zaplatit za 5 nebo za 10 lekcí dopředu na účet 2501970696/2010."
+        desc: ""
         image: assets/img/timeline/1.jpg
         alt:
       - title: ""
-        year: ""
-        desc: "V případě, že se z jakéhokoliv důvodu opozdíte na lekci, a nebudete mě o tom informovat, budu vás online čekat 15 minut. Poté se lekce počítá jako odučená. Pokud svoje zpoždění oznámíte předem, budu na vás čekat po celou dobu naší lekce."
+        year: "Pokud z každé lekce splníte domácí úkol a odešlete ho do 20:00 dne předcházejícího vaší lekci, máte 11. lekci zdarma. Jestliže máte lekci v pondělí, je třeba odeslat domácí úkol do neděle 20:00. Po odeslání deseti domácích úkolů máte jednu lekci zdarma."
+        desc: ""
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: ""
+        year: "Peníze, které za lekce zaplatíte, se nevrací. Můžete je využít na další lekce, nebo zaplatit lekce svým přátelům nebo známým."
+        desc: " "
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: ""
+        year: "Lekci můžete e-mailem zrušit nebo přenést na jiný čas nejpozději 24 hodin před jejím začátkem. Pokud se tak nestane, lekce se počítá jako odučená. Například máte-li lekci v pondělí v 8:00, můžete mi napsat e-mail a lekci zrušit, nebo změnit její čas do neděle 8:00. Pokud tak neučiníte, lekce se počítá jako odučená."
+        desc: ""
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: ""
+        year: "V případě, že se z jakéhokoliv důvodu opozdíte na lekci, a nebudete mě o tom informovat, budu vás online čekat 15 minut. Poté se lekce počítá jako odučená. Pokud svoje zpoždění oznámíte předem, budu na vás čekat po celou dobu naší lekce."
+        desc: ""
         image: assets/img/timeline/2.jpg
         alt:
       
