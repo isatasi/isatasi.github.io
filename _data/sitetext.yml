@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Česky s Češkou, která vám rozumí.
+    title: Česky s Češkou, která vám rozumí
     text: Česky<br>s rodilou mluvčí
     button: Chci se dozvědět víc
     buttonlink: "#portfolio"
@@ -29,46 +29,37 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: ""
+        year: ""
+        desc: "První lekce je bezplatná. <br> Délka jedné lekce je 50 minut <br>Cena jedné lekce je 450 Kč."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "4. Platba za lekce probíhá předem. Je možné zaplatit za 5 nebo za 10 lekcí dopředu na účet 2501970696/2010."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Pokud z každé lekce splníte domácí úkol a odešlete ho do 20:00 dne předcházejícího vaší lekci, máte 11. lekci zdarma. Jestliže máte lekci v pondělí, je třeba odeslat domácí úkol do neděle 20:00. Po odeslání deseti domácích úkolů máte jednu lekci zdarma."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Peníze, které za lekce zaplatíte, se nevrací. Můžete je využít na další lekce, nebo zaplatit lekce svým přátelům nebo známým. "
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Lekci můžete e-mailem zrušit nebo přenést na jiný čas nejpozději 24 hodin před jejím začátkem. Pokud se tak nestane, lekce se počítá jako odučená. Například máte-li lekci v pondělí v 8:00, můžete mi napsat e-mail a lekci zrušit, nebo změnit její čas do neděle 8:00. Pokud tak neučiníte, lekce se počítá jako odučená."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: ""
+        year: ""
+        desc: "V případě, že se z jakéhokoliv důvodu opozdíte na lekci, a nebudete mě o tom informovat, budu vás online čekat 15 minut. Poté se lekce počítá jako odučená. Pokud svoje zpoždění oznámíte předem, budu na vás čekat po celou dobu naší lekce."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+      
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
