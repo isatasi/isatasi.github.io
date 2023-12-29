@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Česky s Češkou, která vám rozumí.
-    text: Naučte se česky s rodilou mluvčí.
+    text: Česky<br>s rodilou mluvčí
     button: Chci se dozvědět víc
     buttonlink: "#portfolio"
 
