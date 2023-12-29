@@ -34,22 +34,22 @@ en: &DEFAULT_EN
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-         title: "Our Humble Beginnings"
+      - title: "Our Humble Beginnings"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-         title: "Our Humble Beginnings"
+      - title: "Our Humble Beginnings"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-         title: "Our Humble Beginnings"
+      - title: "Our Humble Beginnings"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-         title: "Our Humble Beginnings"
+      - title: "Our Humble Beginnings"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
@@ -103,7 +103,7 @@ en: &DEFAULT_EN
       - title: "Platba předem za 5 nebo 10 lekcí"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-laptop
-         title: "11. lekce zdarma"
+      - title: "11. lekce zdarma"
         desc: "Při splnění všech 10 domácích úkolů"
         icon: fas fa-laptop
 
