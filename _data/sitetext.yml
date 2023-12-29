@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Typy lekcí"
     text: "Vyberte si lekci, která vám bude sedět."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Zavrit"
 
   timeline:
     title: "Pravidla"
@@ -29,19 +29,16 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: ""
-        year: "První lekce je bezplatná. <br> Délka jedné lekce je 50 minut. <br>Cena jedné lekce je 450 Kč."
-        desc: ""
+      - title: "První lekce je bezplatná"
+        desc: "Délka jedné lekce je 50 minut. <br>Cena jedné lekce je 450 Kč."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: ""
-        year: "Platba za lekce probíhá předem. Je možné zaplatit za 5 nebo za 10 lekcí dopředu na účet 2501970696/2010."
-        desc: ""
+      - title: "Platba za lekce probíhá předem"
+        desc: "Je možné zaplatit za 5 nebo za 10 lekcí dopředu na účet 2501970696/2010."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: ""
-        year: "Pokud z každé lekce splníte domácí úkol a odešlete ho do 20:00 dne předcházejícího vaší lekci, máte 11. lekci zdarma. Jestliže máte lekci v pondělí, je třeba odeslat domácí úkol do neděle 20:00. Po odeslání deseti domácích úkolů máte jednu lekci zdarma."
-        desc: ""
+      - title: "Sleva za domaci ukol"
+        desc: "Pokud z každé lekce splníte domácí úkol a odešlete ho do 20:00 dne předcházejícího vaší lekci, máte 11. lekci zdarma. Jestliže máte lekci v pondělí, je třeba odeslat domácí úkol do neděle 20:00. Po odeslání deseti domácích úkolů máte jednu lekci zdarma."
         image: assets/img/timeline/1.jpg
         alt:
       - title: ""
@@ -59,20 +56,13 @@ en: &DEFAULT_EN
         desc: ""
         image: assets/img/timeline/2.jpg
         alt:
-      
-        # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
 
   team:
+    align: left
     title: "O MNĚ"
     text: "Naučím vás česky přesně to, co potřebujete."
-    subtext: Jmenuji se Marie Kučerová a vyučuji češtinu jako cizí jazyk, mluvím plynně rusky a rozumím ukrajinsky. Zaměřuji se na individuální lekce se studenty všech věkových kategorií, kteří umí ukrajinsky nebo rusky.  Moji studenti si sami mohou určit tempo a probíranou látku dle vlastních potřeb. <br> 
-<br>Miluji příběhy všeho druhu, pohádky, legendy, literaturu, historii, příběhy zajímavých lidí a míst. Proto jsem vystudovala sociologii a žurnalistiku na Karlově Univerzitě. Během studií i po nich jsem jako dobrovolník pracovala na západní Ukrajině. V ruském Kirově jsem strávila jeden školní rok, kde jsem učila v místním lyceu angličtinu a češtinu.
-<br>Rusky jsem se začala učit na vysoké škole a během svých cest jsem měla možnost tuto znalost prohloubit. Porozumět ukrajinštině mně později naučil můj muž a jeho rodina.  
-<br>Výuce češtiny se věnuji od roku 2020. Svou vášeň pro příběhy promítám i do svých lekcí. Moje nejoblíbenější lekce jsou ty s přesahem, kde se věnujeme zajímavým místům Česka, legendám nebo slavným Češkám a Čechům. Studenti se tak učí nejen gramatiku a nová slovíčka, ale odnášejí si z hodin i něco z českého kulturního povědomí. 
-<br>
-Zajímá vás, jak mé lekce probíhají? V kontaktním formuláři níže si můžete objednat první lekci zdarma!
+    subtext: Jmenuji se Marie Kučerová a vyučuji češtinu jako cizí jazyk, mluvím plynně rusky a rozumím ukrajinsky. Zaměřuji se na individuální lekce se studenty všech věkových kategorií, kteří umí ukrajinsky nebo rusky.  Moji studenti si sami mohou určit tempo a probíranou látku dle vlastních potřeb.<br><br>Miluji příběhy všeho druhu, pohádky, legendy, literaturu, historii, příběhy zajímavých lidí a míst. Proto jsem vystudovala sociologii a žurnalistiku na Karlově Univerzitě. Během studií i po nich jsem jako dobrovolník pracovala na západní Ukrajině. V ruském Kirově jsem strávila jeden školní rok, kde jsem učila v místním lyceu angličtinu a češtinu.<br><br>Rusky jsem se začala učit na vysoké škole a během svých cest jsem měla možnost tuto znalost prohloubit. Porozumět ukrajinštině mně později naučil můj muž a jeho rodina.<br><br>Výuce češtiny se věnuji od roku 2020. Svou vášeň pro příběhy promítám i do svých lekcí. Moje nejoblíbenější lekce jsou ty s přesahem, kde se věnujeme zajímavým místům Česka, legendám nebo slavným Češkám a Čechům. Studenti se tak učí nejen gramatiku a nová slovíčka, ale odnášejí si z hodin i něco z českého kulturního povědomí.<br><br>Zajímá vás, jak mé lekce probíhají? V kontaktním formuláři níže si můžete objednat první lekci zdarma!
     section: team
     people:
       - name: "Marie Kučerová"
@@ -96,7 +86,7 @@ Zajímá vás, jak mé lekce probíhají? V kontaktním formuláři níže si m�
       - title: "450 Kč za lekci"
         desc: "Platba probíhá předem za 5 nebo 10 lekcí na účet 2501970696/2010."
         icon: fas fa-laptop
-      - title: "11. lekce zdarma"
+      - title: "11\\. lekce zdarma"
         desc: "Při splnění 10 domácích úkolů a jejich včasném odeslání."
         icon: fas fa-laptop
      
